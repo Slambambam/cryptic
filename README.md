@@ -4,9 +4,9 @@ Cryptic Cash - Decentralized Cryptocurrency
 
 http://www.crypticcash.org
 
-# Copyright (c) 2009-2014 Bitcoin Developers
-# Copyright (c) 2011-2014 Litecoin Developers
-# Copyright (c) 2017-2018 Cryptic Cash Developers
+Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2017-2018 Cryptic Cash Developers
 
 
 What is Cryptic Cash?
