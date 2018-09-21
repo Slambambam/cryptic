@@ -10,7 +10,7 @@ https://www.torproject.org/docs/faq.html.en#TBBSocksPort for how to properly
 configure Tor.
 
 
-1. Run cryptic behind a Tor proxy
+1. Run Cryptic Cash behind a Tor proxy
 ---------------------------------
 
 The first step is running Cryptic behind a Tor proxy. This will already make all
@@ -42,7 +42,7 @@ In a typical situation, this suffices to run behind a Tor proxy:
   ./crypticd -proxy=127.0.0.1:9050
 
 
-2. Run a cryptic hidden server
+2. Run a Cryptic Cash hidden server
 ------------------------------
 
 If you configure your Tor system accordingly, it is possible to make your node also
