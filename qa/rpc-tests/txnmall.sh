@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Test block generation and basic wallet sending
 
 if [ $# -lt 1 ]; then
